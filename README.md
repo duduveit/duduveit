@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/duduveit/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;  
-  <a href ="mailto: maisa.folgueral@gmail.com">
+  <a href ="mailto: eduardovferrao@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
   <a href ="https://github.com/duduveit/duduveit/issues">
