@@ -14,9 +14,6 @@
   <a href ="mailto: eduardovferrao@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href ="https://github.com/duduveit/duduveit/issues">
-     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>&nbsp;&nbsp;
     <br>
   💬 Pergunte-me algo <a href="https://github.com/duduveit/duduveit/issues" title="Issues">aqui</a>
   <br>
